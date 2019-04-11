@@ -1,5 +1,5 @@
 <div style="margin:5% 40%auto">
-<a href="http://115.159.182.50:5174/wiki2120977/index.html?file=001-%E9%A1%B9%E7%9B%AE%E8%A7%84%E5%88%92/001-%E9%A1%B9%E7%9B%AE%E8%BF%9B%E5%BA%A6%E8%AE%A1%E5%88%92">项目进度计划</a><p>
+<a href text-align: center ="http://115.159.182.50:5174/wiki2120977/index.html?file=001-%E9%A1%B9%E7%9B%AE%E8%A7%84%E5%88%92/001-%E9%A1%B9%E7%9B%AE%E8%BF%9B%E5%BA%A6%E8%AE%A1%E5%88%92">项目进度计划</a><p>
 <a href="http://115.159.182.50:5174/wiki2120977/index.html?file=003-API%E6%96%87%E6%A1%A3/002-%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F">通信方式</a><p>
 <a href="http://115.159.182.50:5174/wiki2120977/index.html?file=003-API%E6%96%87%E6%A1%A3/003-%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89/001-%E9%97%A8%E7%A6%81%E8%AE%BE%E5%A4%87/001-Bus100101%E9%97%A8%E7%A6%81%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF%E6%9F%A5%E8%AF%A2%E6%8E%A5%E5%8F%A3">Bus100101门禁基本信息查询接口</a><p>
 <a href="http://115.159.182.50:5174/wiki2120977/index.html?file=003-API%E6%96%87%E6%A1%A3/003-%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89/001-%E9%97%A8%E7%A6%81%E8%AE%BE%E5%A4%87/002-Bus100201%E8%AE%BE%E5%A4%87%E7%99%BB%E5%BD%95">Bus100201设备登录接口</a><p>
